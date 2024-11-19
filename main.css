@@ -1,0 +1,58 @@
+/* Reset body margins and set background */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Style for the container */
+.container {
+    text-align: center;
+    padding: 2rem;
+    ;
+}
+
+/* Heading style */
+
+h1 {
+    font-size: 3rem;
+    color: #333333;
+    margin-bottom: 1rem;
+}
+
+/* Paragraph style */
+p {
+    color: #666666;
+    margin-bottom: 1.5rem;
+}
+
+/* Email input field style */
+input[type="email"] {
+    width: 80%;
+    max-width: 300px;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+/* Button style */
+button {
+    padding: 0.7rem 1.5rem;
+    border: none;
+    background: #FEB198ff;
+    color: ##FEB198ff;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #0056b3;
+}
