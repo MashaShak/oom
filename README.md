@@ -1,3 +1,3 @@
-Basic Landing page with https://formspree.io/ for OOM
+OOM | Landing page with mail sign-up form from https://formspree.io/ 
 
-https://github.com/MashaShak/oom
+https://www.oom-app.com
